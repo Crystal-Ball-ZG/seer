@@ -10,20 +10,22 @@ interface Sites {
   }
   url: string
   themeColor?: string
+  themeBackgroundImage?: string 
   since?: string
 }
 
 export const site: Sites = {
-  title: 'Urara',
-  subtitle: 'Sweet & Powerful SvelteKit Blog Template',
+  title: 'Zeitgeist Seer',
+  subtitle: 'The Zeitgeist Seer Program',
   lang: 'en-US',
-  descr: 'Powered by SvelteKit/Urara',
+  descr: 'Website for Zeitgeist Seer program. Seer program is community that generates content and prediction markets on Zeitgeist parachain.',
   author: {
-    name: 'John Doe',
+    name: 'Zeitgeist Seer',
     avatar: '/assets/maskable@512.png',
     status: '🌸',
-    bio: 'lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    bio: 'Zeitgeist is a blockchain powered by prediction markets, and prediction markets are powered by the community that creates them.  Emphasizing this philosophy of a community-powered blockchain, Zeitgeist will be governed via "Futarchy", a governance model introduced by world renowned economist Robin Hanson.'
   },
-  url: import.meta.env.URARA_SITE_URL ?? 'https://example.com',
-  themeColor: '#3D4451'
+  url: import.meta.env.URARA_SITE_URL ?? 'https://zeitgeist-seer.com',
+  themeColor: '#000000',
+  themeBackgroundImage: '/assets/bg-image.webp'
 }
