@@ -1,68 +1,14 @@
 ---
-title: 'Hello World'
+title: 'Eras'
 date: 2021-11-01
-lastmod: 2021-12-12
+lastmod: 2021-12-17
 tags:
-  - 'Hello World'
-  - 'Urara'
-cover: '/hello-world/cover.webp'
+  - 'Eras'
+  - 'Roadmap'
+cover: '/eras/cover.jpg'
 ---
 
-Welcome to Urara! this article contains some basic operations to help you quickly get started.
-
-## Development
-
-This template recommends using [pnpm](https://pnpm.io) and [@antfu/ni](https://github.com/antfu/ni). start a development server:
-
-```bash
-# http://localhost:3000
-nr dev
-```
-
-or listen to different IP and port:
-
-```bash
-# http://0.0.0.0:3000
-nr dev --host 0.0.0.0
-
-# http://0.0.0.0:8080
-nr dev --host 0.0.0.0 --port 8080
-```
-
-## Build
-
-```bash
-nr build
-```
-
-or use the specified adapter:
-
-```bash
-# Vercel
-VERCEL=true nr build
-
-# Cloudflare Pages
-CF_PAGES=true nr build
-
-# Netlify
-NETLIFY=true nr build
-```
-
-> This template uses `@sveltejs/adapter-auto@next` and `@sveltejs/adapter-static@next` by default.
-
-> when the environment supported by adapter-auto is not detected, it will automatically fallback to adapter-static.
-
-> u can modify it to any adapter supported by SvelteKit. see [SvelteKit Docs](https://kit.svelte.dev/docs#adapters)
-
-> u can preview the built app with `nr preview`, regardless of
-> whether u installed an adapter. This should _not_ be used to serve
-> ur app in production.
-
-## Misc
-
-```bash
-nr clean # clean the files under /src/routes/**/ and /static/
-nr check # code check
-nr format # code prittier
-nr lint # code lint
-```
+# The Era System
+The definition of Zeitgeist is the defining spirit or mood of a particular Era reflecting the beliefs and ideas of the time. Our Era system is based on this definition. Each Era is designed to focus on certain areas of the Zeitgeist ecosystem's growth and steer the direction of the Seer Program towards those areas. The length and direction of Eras will always remain fluid as the zeitgeist of the Era develops.  
+In the future new Eras will be created that reflect the goals of the Zeitgeist community at that time. Zeitgeist is an evolving platform, and the Seer Program follows that philosophy with the Era system. Designed with the adaptability to allow the greater Zeitgeist community itself to influence the Era.  
+Though Eras are meant to direct the flow of creation within the program, and events and tasks will likely reflect that, work and effort outside of an Era's zeitgeist can still be recognized and rewarded.  
