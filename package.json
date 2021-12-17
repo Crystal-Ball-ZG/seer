@@ -1,6 +1,6 @@
 {
-  "name": "urara",
-  "version": "0.0.1",
+  "name": "zeitgeist-seer",
+  "version": "0.0.2",
   "license": "WTFPL",
   "scripts": {
     "clean": "node urara.js clean",
