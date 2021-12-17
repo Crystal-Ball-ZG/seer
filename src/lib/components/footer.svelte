@@ -21,12 +21,7 @@
         : new Date().toJSON().substring(0, 4)}
       {site.author.name}
       <br />
-      Powered by
-      <a rel="noopener external" target="_blank" href="https://github.com/sveltejs/kit">SvelteKit</a>
-      /
-      <a rel="noopener external" target="_blank" href="https://github.com/pngwn/mdsvex">MDSveX</a>
-      /
-      <a rel="noopener external" target="_blank" class="urara-link" href="https://github.com/importantimport/urara">Urara</a>
+      Powered by community
     </p>
     {#if footerConfig.html}
       {@html `${footerConfig.html}`}
