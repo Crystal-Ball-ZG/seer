@@ -1,18 +1,13 @@
 <br>
 <div align="center">
 <a href="https://zeitgeist-seer.com/">
-<img src="https://zeitgeist-seer.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fbf2171bd-452a-4f7b-be19-809c514b53ea%2Fimages%2F9860fe16-d222-46b5-8208-d30e814b9349.jpg" alt="urara" width="192px" />
+<img src="https://zeitgeist-seer.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fbf2171bd-452a-4f7b-be19-809c514b53ea%2Fimages%2F321c7f77-5c9f-47ee-ba72-6b61a1a42eb9.png&w=1920&q=80" alt="urara" width="192px" />
 </a>
 </div>
 <br>
 
 <h1 align="center">Zeitgeist Seer</h1>
-<p align="center">Website for the zeitgeist Seer program</p>
-<p align="center">
-<img src="https://img.shields.io/github/languages/top/importantimport/urara?color=%23ff3e00" alt="Language">
-<a href="https://github.com/Crystal-Ball-ZG/seer/blob/main/COPYING"><img src="https://img.shields.io/github/license/importantimport/urara?color=%23fff" alt="License"></a>
-<img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimportantimport%2Furara.svg?type=shield" alt="FOSSA Status">
-</p>
+<p align="center">The new community built website for the Zeitgeist Seer program</p>
 <p align="center">
 <a href="https://seer.expectchaos.com">Demo</a>
 /
