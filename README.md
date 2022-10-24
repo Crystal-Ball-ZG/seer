@@ -1,71 +1,64 @@
-<br>
-<div align="center">
-<a href="https://zeitgeist-seer.com/">
-<img src="https://zeitgeist-seer.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fbf2171bd-452a-4f7b-be19-809c514b53ea%2Fimages%2F321c7f77-5c9f-47ee-ba72-6b61a1a42eb9.png&w=1920&q=80" alt="urara" width="192px" />
-</a>
-</div>
-<br>
+# Astro Starter Kit: Blog
 
-<h1 align="center">Zeitgeist Seer</h1>
-<p align="center">The new community built website for the Zeitgeist Seer program</p>
-<p align="center">
-<a href="https://seer.pm">Demo</a>
-/
-<a href="https://34cc8e9a.sibforms.com/serve/MUIEAK6FZAU3pYIlmzKDy9dI37d8MKaNWPG8Mr2WaG73nyyU-LOvFMMrQSkFlhV-3WQQZogFaAcpZkof3TEUWvaPtdz3kp5V4ogWvT8rHaJjvWi9MGCOUqbva90e4Y82qZYpH2BB4LWWW0DtyBtUNd4EHQvTO7EjBzXKjMkPeCWjGGcV70Vuo5rZSd4or8DlNgZBCfWrnC-eah92">Apply to the program</a>
-</p>
-
-## ⚡️ Usage
-
-### Development
-
-This template recommends using [pnpm](https://pnpm.io) and [@antfu/ni](https://github.com/antfu/ni). start a development server:
-
-```bash
-# http://localhost:3000
-nr dev
+```
+npm create astro@latest -- --template blog
 ```
 
-or listen to different IP and port:
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
 
-```bash
-# http://0.0.0.0:3000
-nr dev --host 0.0.0.0
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-# http://0.0.0.0:8080
-nr dev --host 0.0.0.0 --port 8080
+
+![blog](https://user-images.githubusercontent.com/4677417/186189140-4ef17aac-c3c9-4918-a8c2-ce86ba1bb394.png)
+
+Features:
+
+- ✅ Minimal styling (make it your own!)
+- ✅ 100/100 Lighthouse performance
+- ✅ SEO-friendly with canonical URLs and OpenGraph data
+- ✅ Sitemap support
+- ✅ RSS Feed support
+- ✅ Markdown & MDX support
+
+## 🚀 Project Structure
+
+Inside of your Astro project, you'll see the following folders and files:
+
+```
+├── public/
+├── src/
+│   ├── components/
+│   ├── layouts/
+│   └── pages/
+├── astro.config.mjs
+├── README.md
+├── package.json
+└── tsconfig.json
 ```
 
-### Build
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-```bash
-nr build
-```
+There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
-or use the specified adapter:
+Any static assets, like images, can be placed in the `public/` directory.
 
-```bash
-# Vercel
-VERCEL=true nr build
+## 🧞 Commands
 
-# Cloudflare Pages
-CF_PAGES=true nr build
+All commands are run from the root of the project, from a terminal:
 
-# Netlify
-NETLIFY=true nr build
-```
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `npm install`          | Installs dependencies                            |
+| `npm run dev`          | Starts local dev server at `localhost:3000`      |
+| `npm run build`        | Build your production site to `./dist/`          |
+| `npm run preview`      | Preview your build locally, before deploying     |
+| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro --help` | Get help using the Astro CLI                     |
 
-> This template uses `@sveltejs/adapter-auto@next` and `@sveltejs/adapter-static@next` by default.
+## 👀 Want to learn more?
 
-> when the environment supported by adapter-auto is not detected, it will automatically fallback to adapter-static.
+Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-> u can modify it to any adapter supported by SvelteKit. see [SvelteKit Docs](https://kit.svelte.dev/docs#adapters)
+## Credit
 
-> u can preview the built app with `nr preview`, regardless of
-> whether u installed an adapter. This should _not_ be used to serve
-> ur app in production.
-
-## 📝 License
-
-This work is free, it comes without any warranty. You can redistribute it and/or modify it under the
-terms of the Do What The Fuck You Want To Public License, Version 2,
-as published by Sam Hocevar. See the COPYING file for more details.
+This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
