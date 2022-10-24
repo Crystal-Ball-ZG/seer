@@ -1,4 +1,10 @@
-# seer.pm - Zeitgeist community website
+[![urara](https://zeitgeist-seer.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fbf2171bd-452a-4f7b-be19-809c514b53ea%2Fimages%2F321c7f77-5c9f-47ee-ba72-6b61a1a42eb9.png&w=1920&q=80)](https://zeitgeist-seer.com/)
+
+# Zeitgeist Seer
+
+The new community built website for the Zeitgeist Seer program
+
+[Demo](https://seer.pm) / [Apply to the program](https://34cc8e9a.sibforms.com/serve/MUIEAK6FZAU3pYIlmzKDy9dI37d8MKaNWPG8Mr2WaG73nyyU-LOvFMMrQSkFlhV-3WQQZogFaAcpZkof3TEUWvaPtdz3kp5V4ogWvT8rHaJjvWi9MGCOUqbva90e4Y82qZYpH2BB4LWWW0DtyBtUNd4EHQvTO7EjBzXKjMkPeCWjGGcV70Vuo5rZSd4or8DlNgZBCfWrnC-eah92)
 
 ```bash
 git clone git@github.com:Crystal-Ball-ZG/seer.git
