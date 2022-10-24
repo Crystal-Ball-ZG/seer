@@ -1,4 +1,20 @@
-[![urara](https://zeitgeist-seer.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fbf2171bd-452a-4f7b-be19-809c514b53ea%2Fimages%2F321c7f77-5c9f-47ee-ba72-6b61a1a42eb9.png&w=1920&q=80)](https://zeitgeist-seer.com/)
+
+<div align=center>
+  <a href="https://zeitgeist-seer.com/">
+  <img  src="https://zeitgeist-seer.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fbf2171bd-452a-4f7b-be19-809c514b53ea%2Fimages%2F321c7f77-5c9f-47ee-ba72-6b61a1a42eb9.png&w=1920&q=80" alt="zeitgeist seer logo" width="192px" />
+  </a>
+</div>
+
+
+<h1 align="center">Zeitgeist Seer</h1>
+<p align="center">The new community built website for the Zeitgeist Seer program</p>
+<p align="center">
+<a href="https://seer.pm">Demo</a>
+/
+<a href="https://34cc8e9a.sibforms.com/serve/MUIEAK6FZAU3pYIlmzKDy9dI37d8MKaNWPG8Mr2WaG73nyyU-LOvFMMrQSkFlhV-3WQQZogFaAcpZkof3TEUWvaPtdz3kp5V4ogWvT8rHaJjvWi9MGCOUqbva90e4Y82qZYpH2BB4LWWW0DtyBtUNd4EHQvTO7EjBzXKjMkPeCWjGGcV70Vuo5rZSd4or8DlNgZBCfWrnC-eah92">Apply to the program</a>
+</p>
+
+
 
 # Zeitgeist Seer
 
