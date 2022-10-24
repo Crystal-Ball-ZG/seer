@@ -1,24 +1,11 @@
-# Astro Starter Kit: Blog
+# seer.pm - Zeitgeist community website
 
+```bash
+git clone git@github.com:Crystal-Ball-ZG/seer.git
+cd seer
+pnpm install
+pnpm run dev
 ```
-npm create astro@latest -- --template blog
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-
-![blog](https://user-images.githubusercontent.com/4677417/186189140-4ef17aac-c3c9-4918-a8c2-ce86ba1bb394.png)
-
-Features:
-
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
 
 ## 🚀 Project Structure
 
@@ -55,10 +42,10 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## plans
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+- [figma](https://www.figma.com/file/1HTcAW1sYeirtiphiuwSWe/Seers?node-id=1%3A499)
+- [realtime blog](https://github.com/sveltemaster/sveltekit-supabase-realtime-blog)
+- [login auth]<https://supabase.com/blog/2021/07/28/supabase-auth-passwordless-sms-login>
+- [or just signup with discord, especially if it is possible to fetch seer titles]
+- [gitpod supabase example](https://github.com/supabase-community/supabase-sveltekit-example)
