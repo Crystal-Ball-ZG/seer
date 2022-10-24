@@ -1,19 +1,29 @@
 {
-  "name": "@example/blog",
-  "type": "module",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
-  },
-  "dependencies": {
-    "astro": "^1.5.2",
-    "@astrojs/mdx": "^0.11.4",
-    "@astrojs/rss": "^1.0.2",
-    "@astrojs/sitemap": "^1.0.0"
-  }
+    "name": "expectchaos.com",
+    "type": "module",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "dev": "astro dev --experimental-integrations",
+        "start": "astro dev --experimental-integrations",
+        "build": "astro build --experimental-integrations",
+        "preview": "astro preview",
+        "astro": "astro"
+    },
+    "dependencies": {
+        "@astrojs/mdx": "^0.11.4",
+        "@astrojs/rss": "^1.0.2",
+        "@astrojs/sitemap": "^1.0.0",
+        "@kidonng/daisyui": "^2.31.0",
+        "@unocss/reset": "^0.45.30",
+        "astro": "^1.5.2",
+        "unocss-preset-daisy": "^1.2.0"
+    },
+    "devDependencies": {
+        "@unocss/preset-attributify": "^0.45.30",
+        "astro-uno": "^0.2.1",
+        "prettier": "^2.7.1",
+        "prettier-plugin-astro": "^0.6.0",
+        "unocss": "^0.45.30"
+    }
 }
